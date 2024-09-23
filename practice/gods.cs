@@ -33,6 +33,7 @@ namespace practice
             {
                 Console.WriteLine(j + "." + opr[j]+" Operator");
             }
+            Console.WriteLine("thank you.");
 
         
         }
